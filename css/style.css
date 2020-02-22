@@ -6,38 +6,3 @@ background-size: cover;
 background-repeat: no-repeat;
 padding-top: 200px;
 }
-.body{
-     text-align: center;
- }
- .service{
-text-align: center;
-background-image: url(/home/ruth/visual-studio/gallery/west.jpg);
-color: white;
-height: 300px;
-padding-top:100px ;
-background-size: cover;
- }
- .what{
-     text-align: center;
- }
-#port1 img{
-     width:100% ;
- }
- .portfolio{
-     text-align: center;
- }
- .form{
-     text-align: center;
-     background-image: url(/home/ruth/visual-studio/gallery/save.jpg);
-     background-size: cover;
-color: white;
- }
- .form input{
-     color: white;
- }
- .form textarea{
-     color: white;
- }
- #day{
-     display: none;
- }
