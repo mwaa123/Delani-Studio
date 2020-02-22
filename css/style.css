@@ -41,3 +41,9 @@ color: white;
 #day{
     display: none;
 }
+#dove3  h4{
+    text-align: inherit;
+}
+#dove2 h4{
+    text-align: left;
+}
