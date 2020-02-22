@@ -26,3 +26,18 @@ background-size: cover;
 .portfolio{
     text-align: center;
 }
+.form{
+    text-align: center;
+    background-image: url(/home/ruth/visual-studio/gallery/save.jpg);
+    background-size: cover;
+color: white;
+}
+.form input{
+    color: white;
+}
+.form textarea{
+    color: white;
+}
+#day{
+    display: none;
+}
