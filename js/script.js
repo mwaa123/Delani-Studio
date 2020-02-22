@@ -11,10 +11,3 @@ $(function(){
         $('#dove3 .dove3').toggle();
     });
 });
-document.getElementById("submit").onclick=function(){
-    var nam ="" 
-    var ema =""
-    nam =document.getElementById("name").Value
-    ema =document.getElementById("email").Value
-    alert("Hi"+nam + "we have verified  your email account "+ "please stay with us")
-}
