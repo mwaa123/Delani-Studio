@@ -1,8 +1,8 @@
 .start{
     text-align: center;
-background-image: url(/home/ruth/visual-studio/gallery/tree.jpg);
+background-image: url(/gallery/tree.jpg);
 height:550px;
-background-size: cover;
+background-size: cover; 
 background-repeat: no-repeat;
 padding-top: 200px;
 }
@@ -11,7 +11,7 @@ padding-top: 200px;
 }
 .service{
 text-align: center;
-background-image: url(/home/ruth/visual-studio/gallery/west.jpg);
+background-image: url(/gallery/west.jpg);
 color: white;
 height: 300px;
 padding-top:100px ;
@@ -96,7 +96,7 @@ background-size: cover;
     right: 30%;
     display: none;
 }
-.text8 {
+.text1 {
     position: absolute;
     border: 2px solid white;
     background-color: white;
@@ -111,7 +111,7 @@ background-size: cover;
 
 .form{
     text-align: center;
-    background-image: url(/home/ruth/visual-studio/gallery/save.jpg);
+    background-image: url(/gallery/save.jpg);
     background-size: cover;
 color: white;
 }
