@@ -1,6 +1,6 @@
 .start{
     text-align: center;
-background-image: url(/gallery/tree.jpg);
+background-image: url(../gallery/tree.jpg);
 height:550px;
 background-size: cover; 
 background-repeat: no-repeat;
@@ -11,7 +11,7 @@ padding-top: 200px;
 }
 .service{
 text-align: center;
-background-image: url(/gallery/west.jpg);
+background-image: url(../gallery/west.jpg);
 color: white;
 height: 300px;
 padding-top:100px ;
