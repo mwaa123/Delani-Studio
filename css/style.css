@@ -1,8 +1,8 @@
 .start{
     text-align: center;
-background-image: url(/home/ruth/visual-studio/gallery/tree.jpg);
+background-image: url(../gallery/tree.jpg);
 height:550px;
-background-size: cover;
+background-size: cover; 
 background-repeat: no-repeat;
 padding-top: 200px;
 }
@@ -11,7 +11,7 @@ padding-top: 200px;
 }
 .service{
 text-align: center;
-background-image: url(/home/ruth/visual-studio/gallery/west.jpg);
+background-image: url(../gallery/west.jpg);
 color: white;
 height: 300px;
 padding-top:100px ;
@@ -26,9 +26,92 @@ background-size: cover;
 .portfolio{
     text-align: center;
 }
+.text1 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text2 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text3 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text4 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text5 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text6 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text7 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text1 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+
+
+
 .form{
     text-align: center;
-    background-image: url(/home/ruth/visual-studio/gallery/save.jpg);
+    background-image: url(/gallery/save.jpg);
     background-size: cover;
 color: white;
 }
@@ -41,9 +124,6 @@ color: white;
 #day{
     display: none;
 }
-/* #dove3  h4{
-    position: ;
+.icons{
+    text-align: center;
 }
-#dove2 h4{
-    text-align: left;
-} */
