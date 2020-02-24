@@ -111,7 +111,7 @@ background-size: cover;
 
 .form{
     text-align: center;
-    background-image: url(/gallery/save.jpg);
+    background-image: url(../gallery/save.jpg);
     background-size: cover;
 color: white;
 }
