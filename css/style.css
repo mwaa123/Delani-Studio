@@ -26,6 +26,89 @@ background-size: cover;
 .portfolio{
     text-align: center;
 }
+.text1 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text2 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text3 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text4 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text5 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text6 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text7 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+.text8 {
+    position: absolute;
+    border: 2px solid white;
+    background-color: white;
+    width: 100px;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+
+
+
 .form{
     text-align: center;
     background-image: url(/home/ruth/visual-studio/gallery/save.jpg);
